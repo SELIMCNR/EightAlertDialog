@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,"Not Saved",Toast.LENGTH_LONG).show();
             }
         });
+        alert.show();
+
     }
 
 }
