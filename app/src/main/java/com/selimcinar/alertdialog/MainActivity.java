@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //ApplicationContext Uygulamayı ilgilendiren contextir.getApplicationContext ile alınır.
 
 
-        //Toast Mesajı
+        //Toast Mesajı yazımı
         Toast.makeText(this,"Toast Message",Toast.LENGTH_LONG).show();
 
     }
